@@ -1,4 +1,7 @@
-
+# local gitignore
+*.tmp
+*.out
+tmp/*
 donotupload.txt
 *.xcuserstate
 
